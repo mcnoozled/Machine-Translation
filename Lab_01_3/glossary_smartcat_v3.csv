@@ -1,0 +1,101 @@
+﻿Source (en),Target (ru),Comment
+circulation of blood,кровообращение,The continuous movement of blood through the heart and vessels delivers oxygen and nutrients while returning blood to the circulation.
+arterial pulse,артериальный пульс,The arterial pulse is the rhythmic expansion of an artery produced by ventricular ejection and transmitted through the arterial system.
+jugular venous pulse,яремный венозный пульс,The jugular venous pulse is a visible or palpable waveform that reflects pressure and pressure changes in the right atrium and central veins.
+auscultation,аускультация,Auscultation is the clinical practice of listening to cardiac sounds with a stethoscope to identify normal findings and abnormal murmurs.
+electrocardiogram,электрокардиограмма,The electrocardiogram records the heart’s electrical activation at the body surface and allows cardiac excitation and conduction to be assessed.
+cardiac catheterization,катетеризация сердца,Cardiac catheterization is an invasive technique used to obtain physiologic measurements and define cardiac anatomy for diagnosis and treatment.
+coronary artery disease,ишемическая болезнь сердца,Coronary artery disease is a disorder of the coronary circulation that can reduce myocardial blood flow and produce ischemia or infarction.
+angina pectoris,стенокардия,"Angina pectoris is a clinical syndrome of chest discomfort associated with myocardial ischemia, often provoked by exertion or increased cardiac demand."
+hypertension,артериальная гипертензия,Hypertension denotes persistently elevated arterial pressure and is discussed as an important contributor to cardiovascular disease and organ damage.
+heart failure,сердечная недостаточность,"Heart failure is a clinical syndrome in which cardiac performance is insufficient or abnormal enough to produce symptoms, functional limitation, or congestion."
+cardiovascular diseases,сердечно-сосудистые заболевания,Cardiovascular diseases comprise disorders of the heart and blood vessels and represent a major cause of premature death worldwide.
+ischemic heart disease,ишемическая болезнь сердца,"Ischemic heart disease results from inadequate coronary blood supply relative to myocardial demand and can cause angina, infarction, and death."
+cerebrovascular disease,цереброваскулярное заболевание,"Cerebrovascular disease affects the vessels supplying the brain and can produce stroke, disability, and death."
+abdominal aortic aneurysm,аневризма брюшной аорты,An abdominal aortic aneurysm is a focal enlargement of the abdominal aorta meeting a defined size threshold relative to the normal vessel.
+peripheral arterial disease,заболевание периферических артерий,"Peripheral arterial disease narrows arteries supplying the limbs, reduces blood flow, and commonly produces exertional leg pain known as claudication."
+atrial fibrillation,фибрилляция предсердий,Atrial fibrillation is an atrial rhythm disorder characterized by disorganized atrial activation and an increased risk of thromboembolic stroke.
+infective endocarditis,инфекционный эндокардит,"Infective endocarditis is an infection caused by pathogens entering the bloodstream and producing inflammation in cardiac tissues, often involving a valve."
+risk factors,факторы риска,"Risk factors are characteristics, exposures, or conditions associated with a higher probability of developing cardiovascular disease or its complications."
+hypertension,артериальная гипертензия,Hypertension is a major cardiovascular risk factor characterized by elevated arterial blood pressure and substantial population-level health effects.
+diabetes mellitus,сахарный диабет,Diabetes mellitus is a metabolic disorder with chronic hyperglycemia that substantially contributes to cardiovascular disease worldwide.
+quality of care,качество медицинской помощи,"Quality of care describes how well healthcare delivers appropriate, effective, timely, coordinated, and patient-valued services with acceptable variation."
+quality improvement,улучшение качества,"Quality improvement consists of organized efforts that identify deficiencies, reduce unwanted variation, and improve healthcare processes and outcomes."
+clinical practice guidelines,клинические рекомендации,Clinical practice guidelines synthesize evidence and expert judgment to recommend diagnostic or therapeutic interventions for defined clinical circumstances.
+performance measures,показатели эффективности,"Performance measures are standardized metrics used to assess aspects of healthcare delivery, adherence to recommended care, or outcomes."
+evidence-based clinical guidelines,клинические рекомендации на основе доказательств,Evidence-based clinical guidelines connect clinical recommendations with the available research evidence supporting care decisions and outcomes.
+appropriate use criteria,критерии надлежащего применения,Appropriate use criteria help determine whether specific diagnostic or therapeutic services are suitable for particular clinical situations.
+randomized clinical trial,рандомизированное клиническое исследование,A randomized clinical trial assigns participants to study groups by chance so that interventions can be compared while limiting systematic differences between groups.
+quality assurance,обеспечение качества,"Quality assurance encompasses organizational processes used to monitor standards, evaluate performance, and support sustained improvements in healthcare quality."
+patient-centered outcomes,"результаты, ориентированные на пациента",Patient-centered outcomes capture health status and treatment satisfaction as experienced and valued by the patient rather than only by clinicians.
+shared decision making,совместное принятие решений,Shared decision making combines clinical evidence with patient preferences and values when choosing among reasonable healthcare options.
+right atrium,правое предсердие,The right atrium receives systemic venous blood and serves as the upstream chamber for right ventricular filling.
+left atrium,левое предсердие,The left atrium receives oxygenated pulmonary venous blood and directs it through the mitral valve into the left ventricle.
+right ventricle,правый желудочек,The right ventricle receives systemic venous blood and pumps it through the pulmonary outflow tract into the pulmonary circulation.
+left ventricle,левый желудочек,The left ventricle is the main systemic pump and contains the high-pressure chamber that ejects blood through the aortic valve.
+tricuspid valve,трёхстворчатый клапан,"The tricuspid valve is an atrioventricular valve composed of an annulus, leaflets, commissures, chordae tendineae, and papillary muscles."
+mitral valve,митральный клапан,The mitral valve is the left atrioventricular valve whose coordinated apparatus supports competent ventricular filling and prevents systolic regurgitation.
+aortic valve,аортальный клапан,The aortic valve is a semilunar valve at left ventricular outflow and forms a central structural component of the cardiac skeleton.
+pulmonary valve,клапан лёгочной артерии,The pulmonary valve is a semilunar valve guarding the right ventricular outflow into the pulmonary artery.
+papillary muscle,сосочковая мышца,Papillary muscles arise from ventricular myocardium and support atrioventricular valve leaflets through attached chordae tendineae.
+chordae tendineae,сухожильные хорды,Chordae tendineae are fibrous cords that extend from papillary muscles to atrioventricular leaflets and help coordinate valve closure.
+cardiac cycle,сердечный цикл,"The cardiac cycle is the time-ordered sequence of pressure, volume, and flow events occurring during one heartbeat."
+systole,систола,Systole is the contraction phase of the cardiac cycle during which ventricular pressure rises and blood is ejected.
+diastole,диастола,Diastole is the relaxation and filling phase during which the heart returns toward its precontractile state and receives blood.
+stroke volume,ударный объём,Stroke volume is the amount of blood ejected by a ventricle during a single cardiac contraction.
+cardiac output,сердечный выброс,Cardiac output is the volume of blood pumped by the heart per unit of time and changes with metabolic demand.
+preload,преднагрузка,Preload reflects the initial myocardial loading or fiber length before contraction and influences force development through the Frank-Starling relationship.
+afterload,постнагрузка,Afterload is the additional load opposing myocardial shortening after stimulation and influences the force-velocity behavior of muscle.
+contractility,сократимость,Contractility is the intrinsic ability of myocardial muscle to develop force independent of changes in loading conditions.
+Frank-Starling relationship,закон Франка—Старлинга,The Frank-Starling relationship links increased preload with enhanced cardiac performance within the physiological operating range of the heart.
+baroreflex system,барорефлекторная система,The baroreflex system provides negative-feedback control of arterial pressure by sensing pressure changes and adjusting autonomic responses.
+β-adrenergic receptors,β-адренергические рецепторы,β-adrenergic receptors are cardiac signaling receptors whose activation increases contractility and heart rate through intracellular signaling pathways.
+calcium transient,кальциевый транзиент,The calcium transient is the rapid change in cardiomyocyte calcium concentration that couples electrical activation to contraction and relaxation.
+phospholamban,фосфоламбан,Phospholamban is a regulatory protein that modulates SERCA2a-mediated calcium uptake into the sarcoplasmic reticulum.
+L-type Ca-channel,L-тип кальциевого канала,The L-type Ca-channel is a membrane calcium channel that participates in excitation-contraction coupling in cardiac muscle.
+ryanodine receptors,рианодиновые рецепторы,Ryanodine receptors are intracellular calcium-release channels positioned near L-type calcium channels in cardiac excitation-contraction coupling.
+sarcoplasmic reticulum,саркоплазматический ретикулум,"The sarcoplasmic reticulum stores and releases calcium in cardiomyocytes, thereby regulating contraction and relaxation."
+troponin T and I,тропонин T и I,Troponin T and I are regulatory components of the contractile apparatus that participate in calcium-sensitive control of cardiac muscle contraction.
+actin,актин,Actin forms the thin filament that interacts with myosin during contraction when calcium permits productive cross-bridge cycling.
+apoptosis,апоптоз,"Apoptosis is a genetically programmed, energy-dependent form of cell death that can occur without provoking an inflammatory response."
+autophagy,аутофагия,Autophagy is a protein quality-control process that degrades long-lived and aggregated proteins and contributes to cellular homeostasis.
+endothelial cells,эндотелиальные клетки,"Endothelial cells form the inner vessel lining and regulate vascular homeostasis, permeability, thrombosis, and vasoactive signaling."
+nitric oxide,оксид азота,Nitric oxide is an endothelium-derived relaxing mediator produced by nitric oxide synthase and involved in vascular dilation.
+vascular smooth muscle,гладкая мускулатура сосудов,"Vascular smooth muscle provides contractile control of vessel diameter and responds to mitogenic, thrombotic, and vasoactive signals."
+extracellular matrix,внеклеточный матрикс,The extracellular matrix is a structural component of the vascular wall that provides mechanical support and influences cellular behavior and signaling.
+intimal layer,интимальный слой,The intimal layer is the innermost vascular layer adjacent to the lumen and is involved in neointimal formation after injury.
+medial VSMC tone,тонус гладкомышечных клеток медии,Medial VSMC tone is the contractile state of vascular smooth muscle within the medial layer and is regulated by multiple signals.
+adventitia,адвентиция,The adventitia is the outer vascular layer and contains connective tissue and cellular populations involved in vascular remodeling and progenitor-cell biology.
+atherosclerosis,атеросклероз,Atherosclerosis is a chronic arterial process in which plaques develop within the vessel wall and can later contribute to ischemic events.
+angiogenesis,ангиогенез,Angiogenesis is the formation of new capillaries from preexisting vessels through sprouting or splitting processes in the vascular wall.
+endothelial dysfunction,эндотелиальная дисфункция,Endothelial dysfunction is impaired endothelial regulation of vascular homeostasis and is associated with conditions such as atherosclerosis and hypertension.
+cardiac embryogenesis,эмбриогенез сердца,"Cardiac embryogenesis encompasses the coordinated formation, specification, differentiation, and remodeling of the embryonic heart."
+primitive heart tube,примитивная сердечная трубка,"The primitive heart tube is an early embryonic cardiac structure that later bends, remodels, and gives rise to the definitive heart chambers and outflow tract."
+heart looping,изгибание сердечной трубки,Heart looping is the directional bending of the embryonic cardiac tube that establishes the spatial arrangement of developing cardiac chambers.
+cardiac progenitors,сердечные клетки-предшественники,Cardiac progenitors are undifferentiated cells that proliferate and differentiate to contribute new cardiomyocytes during heart formation.
+cardiomyocyte,кардиомиоцит,A cardiomyocyte is a differentiated cardiac muscle cell responsible for generating force and participating in the functional contraction of the heart.
+endocardium,эндокард,The endocardium is the inner lining of the developing heart and lies between the cardiac lumen and myocardium.
+epicardium,эпикард,The epicardium is the outer embryonic heart layer that contributes cells and signals important for cardiac chamber and vascular development.
+ventricular septation,септация желудочков,Ventricular septation forms the partition between the right and left ventricles and is completed during early fetal heart development.
+neural crest cells,клетки нервного гребня,Neural crest cells are migratory embryonic cells that make essential contributions to development of the cardiac outflow tract and related structures.
+transcription factors,транскрипционные факторы,Transcription factors regulate gene expression programs that establish cardiac cell identity and direct developmental lineage decisions.
+genetic variants,генетические варианты,Genetic variants are differences in DNA sequence whose effects can range from benign changes to variants that contribute to inherited cardiovascular disease.
+genetic counseling,генетическое консультирование,"Genetic counseling integrates clinical findings, family history, inheritance patterns, and testing information to guide patients and relatives."
+cardiomyopathy,кардиомиопатия,Cardiomyopathies are myocardial disorders with structural or functional abnormalities not explained by another sufficient cardiac disease.
+hypertrophic cardiomyopathy,гипертрофическая кардиомиопатия,Hypertrophic cardiomyopathy is a myocardial disorder characterized by abnormal ventricular hypertrophy and often influenced by inherited genetic variants.
+dilated cardiomyopathy,дилатационная кардиомиопатия,"Dilated cardiomyopathy is a myocardial disorder characterized by ventricular dilation, impaired systolic function, and diverse genetic and acquired causes."
+arrhythmogenic cardiomyopathy,аритмогенная кардиомиопатия,Arrhythmogenic cardiomyopathy is an inherited myocardial phenotype characterized by arrhythmic risk and structural abnormalities involving one or more ventricles.
+familial hypercholesterolemia,семейная гиперхолестеринемия,Familial hypercholesterolemia is an inherited lipid disorder characterized by markedly elevated LDL cholesterol and increased premature cardiovascular risk.
+genotype,генотип,"Genotype refers to the genetic constitution associated with a trait and is interpreted together with phenotype, penetrance, and family segregation."
+phenotype,фенотип,Phenotype is the observable clinical or biological expression of genetic and environmental influences in an individual.
+genetic testing,генетическое тестирование,"Genetic testing analyzes DNA to identify, confirm, or characterize variants relevant to inherited cardiovascular disease and family risk."
+stem cell therapy,терапия стволовыми клетками,"Stem cell therapy uses stem or progenitor cells with the aim of modifying, repairing, or replacing injured cardiovascular tissue."
+bone marrow-derived stem cells,стволовые клетки костного мозга,"Bone marrow-derived stem cells are progenitor populations obtained from marrow that have been investigated for mobilization, homing, and cardiovascular repair."
+pluripotent stem cells,плюрипотентные стволовые клетки,Pluripotent stem cells can differentiate into derivatives of all three germ layers and therefore provide broad developmental potential.
+embryonic stem cells,эмбриональные стволовые клетки,Embryonic stem cells are pluripotent cells derived from the inner cell mass of the early blastocyst and capable of forming multiple lineages.
+induced pluripotent stem cells,индуцированные плюрипотентные стволовые клетки,Induced pluripotent stem cells arise after reprogramming differentiated adult cells and acquire properties similar to embryonic pluripotent cells.
+mesenchymal stem cells,мезенхимальные стволовые клетки,"Mesenchymal stem cells are stromal progenitor cells studied for their accessibility, tissue homing, immunologic properties, and potential therapeutic use."
+bone marrow mononuclear cells,мононуклеарные клетки костного мозга,Bone marrow mononuclear cells are a heterogeneous marrow-derived cell population extensively studied in cardiovascular cell-therapy trials.
+myocardial regeneration,регенерация миокарда,"Myocardial regeneration denotes restoration of injured cardiac tissue through processes involving progenitor cells, differentiation, repair, or other regenerative mechanisms."
+cardiac progenitor cells,сердечные клетки-предшественники,Cardiac progenitor cells are endogenous or delivered precursor cells investigated for their possible role in myocardial repair and regeneration.
+allogeneic transplantation,аллогенная трансплантация,Allogeneic transplantation uses cells from another individual and can enable prepared cell products to be available before clinical treatment.

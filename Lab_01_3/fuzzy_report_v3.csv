@@ -1,0 +1,3 @@
+﻿query,tuid,source_segment,target_segment,score,lev_ratio,token_sort_ratio,match_type
+IHD is the leading cause of death worldwide.,12,IHD is the leading cause of death worldwide.,Ишемическая болезнь сердца является ведущей причиной смерти во всём мире.,100.0,100.0,100.0,ICE (101%)
+IHD is the main cause of death worldwide.,12,IHD is the leading cause of death worldwide.,Ишемическая болезнь сердца является ведущей причиной смерти во всём мире.,90.7,90.7,90.7,Fuzzy

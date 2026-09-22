@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossary EN-RU: Медицина: кардиология и кардиохирургия</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Lab 01, variant 3, generated automatically</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="tid-001">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>circulation of blood</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The continuous movement of blood through the heart and vessels delivers oxygen and nutrients while returning blood to the circulation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кровообращение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-002">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>arterial pulse</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The arterial pulse is the rhythmic expansion of an artery produced by ventricular ejection and transmitted through the arterial system.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>артериальный пульс</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-003">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>jugular venous pulse</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The jugular venous pulse is a visible or palpable waveform that reflects pressure and pressure changes in the right atrium and central veins.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>яремный венозный пульс</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-004">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>auscultation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Auscultation is the clinical practice of listening to cardiac sounds with a stethoscope to identify normal findings and abnormal murmurs.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аускультация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-005">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>electrocardiogram</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The electrocardiogram records the heart’s electrical activation at the body surface and allows cardiac excitation and conduction to be assessed.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>электрокардиограмма</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-006">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiac catheterization</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cardiac catheterization is an invasive technique used to obtain physiologic measurements and define cardiac anatomy for diagnosis and treatment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>катетеризация сердца</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-007">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>coronary artery disease</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Coronary artery disease is a disorder of the coronary circulation that can reduce myocardial blood flow and produce ischemia or infarction.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ишемическая болезнь сердца</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-008">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>angina pectoris</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Angina pectoris is a clinical syndrome of chest discomfort associated with myocardial ischemia, often provoked by exertion or increased cardiac demand.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стенокардия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-009">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hypertension</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Hypertension denotes persistently elevated arterial pressure and is discussed as an important contributor to cardiovascular disease and organ damage.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>артериальная гипертензия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-010">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>heart failure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Heart failure is a clinical syndrome in which cardiac performance is insufficient or abnormal enough to produce symptoms, functional limitation, or congestion.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сердечная недостаточность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-011">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiovascular diseases</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cardiovascular diseases comprise disorders of the heart and blood vessels and represent a major cause of premature death worldwide.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сердечно-сосудистые заболевания</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-012">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ischemic heart disease</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Ischemic heart disease results from inadequate coronary blood supply relative to myocardial demand and can cause angina, infarction, and death.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ишемическая болезнь сердца</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-013">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cerebrovascular disease</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cerebrovascular disease affects the vessels supplying the brain and can produce stroke, disability, and death.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>цереброваскулярное заболевание</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-014">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>abdominal aortic aneurysm</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An abdominal aortic aneurysm is a focal enlargement of the abdominal aorta meeting a defined size threshold relative to the normal vessel.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аневризма брюшной аорты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-015">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>peripheral arterial disease</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Peripheral arterial disease narrows arteries supplying the limbs, reduces blood flow, and commonly produces exertional leg pain known as claudication.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>заболевание периферических артерий</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-016">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>atrial fibrillation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Atrial fibrillation is an atrial rhythm disorder characterized by disorganized atrial activation and an increased risk of thromboembolic stroke.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фибрилляция предсердий</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-017">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>infective endocarditis</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Infective endocarditis is an infection caused by pathogens entering the bloodstream and producing inflammation in cardiac tissues, often involving a valve.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>инфекционный эндокардит</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-018">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk factors</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Risk factors are characteristics, exposures, or conditions associated with a higher probability of developing cardiovascular disease or its complications.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>факторы риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-019">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hypertension</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Hypertension is a major cardiovascular risk factor characterized by elevated arterial blood pressure and substantial population-level health effects.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>артериальная гипертензия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-020">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>diabetes mellitus</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Diabetes mellitus is a metabolic disorder with chronic hyperglycemia that substantially contributes to cardiovascular disease worldwide.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сахарный диабет</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-021">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>quality of care</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Quality of care describes how well healthcare delivers appropriate, effective, timely, coordinated, and patient-valued services with acceptable variation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>качество медицинской помощи</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-022">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>quality improvement</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Quality improvement consists of organized efforts that identify deficiencies, reduce unwanted variation, and improve healthcare processes and outcomes.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>улучшение качества</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-023">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>clinical practice guidelines</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Clinical practice guidelines synthesize evidence and expert judgment to recommend diagnostic or therapeutic interventions for defined clinical circumstances.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>клинические рекомендации</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-024">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>performance measures</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Performance measures are standardized metrics used to assess aspects of healthcare delivery, adherence to recommended care, or outcomes.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>показатели эффективности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-025">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>evidence-based clinical guidelines</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Evidence-based clinical guidelines connect clinical recommendations with the available research evidence supporting care decisions and outcomes.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>клинические рекомендации на основе доказательств</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-026">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>appropriate use criteria</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Appropriate use criteria help determine whether specific diagnostic or therapeutic services are suitable for particular clinical situations.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>критерии надлежащего применения</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-027">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>randomized clinical trial</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A randomized clinical trial assigns participants to study groups by chance so that interventions can be compared while limiting systematic differences between groups.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>рандомизированное клиническое исследование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-028">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>quality assurance</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Quality assurance encompasses organizational processes used to monitor standards, evaluate performance, and support sustained improvements in healthcare quality.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>обеспечение качества</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-029">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>patient-centered outcomes</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Patient-centered outcomes capture health status and treatment satisfaction as experienced and valued by the patient rather than only by clinicians.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>результаты, ориентированные на пациента</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-030">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>shared decision making</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Shared decision making combines clinical evidence with patient preferences and values when choosing among reasonable healthcare options.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>совместное принятие решений</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-031">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>right atrium</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The right atrium receives systemic venous blood and serves as the upstream chamber for right ventricular filling.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>правое предсердие</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-032">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>left atrium</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The left atrium receives oxygenated pulmonary venous blood and directs it through the mitral valve into the left ventricle.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>левое предсердие</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-033">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>right ventricle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The right ventricle receives systemic venous blood and pumps it through the pulmonary outflow tract into the pulmonary circulation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>правый желудочек</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-034">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>left ventricle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The left ventricle is the main systemic pump and contains the high-pressure chamber that ejects blood through the aortic valve.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>левый желудочек</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-035">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tricuspid valve</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The tricuspid valve is an atrioventricular valve composed of an annulus, leaflets, commissures, chordae tendineae, and papillary muscles.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>трёхстворчатый клапан</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-036">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mitral valve</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The mitral valve is the left atrioventricular valve whose coordinated apparatus supports competent ventricular filling and prevents systolic regurgitation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>митральный клапан</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-037">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>aortic valve</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The aortic valve is a semilunar valve at left ventricular outflow and forms a central structural component of the cardiac skeleton.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аортальный клапан</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-038">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pulmonary valve</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The pulmonary valve is a semilunar valve guarding the right ventricular outflow into the pulmonary artery.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>клапан лёгочной артерии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-039">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>papillary muscle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Papillary muscles arise from ventricular myocardium and support atrioventricular valve leaflets through attached chordae tendineae.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сосочковая мышца</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-040">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>chordae tendineae</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Chordae tendineae are fibrous cords that extend from papillary muscles to atrioventricular leaflets and help coordinate valve closure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сухожильные хорды</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-041">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiac cycle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The cardiac cycle is the time-ordered sequence of pressure, volume, and flow events occurring during one heartbeat.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сердечный цикл</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-042">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>systole</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Systole is the contraction phase of the cardiac cycle during which ventricular pressure rises and blood is ejected.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>систола</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-043">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>diastole</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Diastole is the relaxation and filling phase during which the heart returns toward its precontractile state and receives blood.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>диастола</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-044">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>stroke volume</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Stroke volume is the amount of blood ejected by a ventricle during a single cardiac contraction.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ударный объём</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-045">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiac output</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cardiac output is the volume of blood pumped by the heart per unit of time and changes with metabolic demand.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сердечный выброс</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-046">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>preload</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Preload reflects the initial myocardial loading or fiber length before contraction and influences force development through the Frank-Starling relationship.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>преднагрузка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-047">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>afterload</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Afterload is the additional load opposing myocardial shortening after stimulation and influences the force-velocity behavior of muscle.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>постнагрузка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-048">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>contractility</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Contractility is the intrinsic ability of myocardial muscle to develop force independent of changes in loading conditions.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сократимость</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-049">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Frank-Starling relationship</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The Frank-Starling relationship links increased preload with enhanced cardiac performance within the physiological operating range of the heart.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>закон Франка—Старлинга</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-050">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>baroreflex system</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The baroreflex system provides negative-feedback control of arterial pressure by sensing pressure changes and adjusting autonomic responses.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>барорефлекторная система</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-051">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>β-adrenergic receptors</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">β-adrenergic receptors are cardiac signaling receptors whose activation increases contractility and heart rate through intracellular signaling pathways.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>β-адренергические рецепторы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-052">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>calcium transient</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The calcium transient is the rapid change in cardiomyocyte calcium concentration that couples electrical activation to contraction and relaxation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кальциевый транзиент</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-053">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>phospholamban</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Phospholamban is a regulatory protein that modulates SERCA2a-mediated calcium uptake into the sarcoplasmic reticulum.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фосфоламбан</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-054">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>L-type Ca-channel</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The L-type Ca-channel is a membrane calcium channel that participates in excitation-contraction coupling in cardiac muscle.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>L-тип кальциевого канала</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-055">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ryanodine receptors</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Ryanodine receptors are intracellular calcium-release channels positioned near L-type calcium channels in cardiac excitation-contraction coupling.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>рианодиновые рецепторы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-056">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sarcoplasmic reticulum</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The sarcoplasmic reticulum stores and releases calcium in cardiomyocytes, thereby regulating contraction and relaxation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>саркоплазматический ретикулум</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-057">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>troponin T and I</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Troponin T and I are regulatory components of the contractile apparatus that participate in calcium-sensitive control of cardiac muscle contraction.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тропонин T и I</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-058">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>actin</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Actin forms the thin filament that interacts with myosin during contraction when calcium permits productive cross-bridge cycling.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>актин</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-059">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>apoptosis</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Apoptosis is a genetically programmed, energy-dependent form of cell death that can occur without provoking an inflammatory response.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>апоптоз</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-060">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>autophagy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Autophagy is a protein quality-control process that degrades long-lived and aggregated proteins and contributes to cellular homeostasis.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аутофагия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-061">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>endothelial cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Endothelial cells form the inner vessel lining and regulate vascular homeostasis, permeability, thrombosis, and vasoactive signaling.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эндотелиальные клетки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-062">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>nitric oxide</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Nitric oxide is an endothelium-derived relaxing mediator produced by nitric oxide synthase and involved in vascular dilation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>оксид азота</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-063">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>vascular smooth muscle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Vascular smooth muscle provides contractile control of vessel diameter and responds to mitogenic, thrombotic, and vasoactive signals.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гладкая мускулатура сосудов</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-064">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>extracellular matrix</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The extracellular matrix is a structural component of the vascular wall that provides mechanical support and influences cellular behavior and signaling.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>внеклеточный матрикс</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-065">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>intimal layer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The intimal layer is the innermost vascular layer adjacent to the lumen and is involved in neointimal formation after injury.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>интимальный слой</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-066">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>medial VSMC tone</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Medial VSMC tone is the contractile state of vascular smooth muscle within the medial layer and is regulated by multiple signals.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тонус гладкомышечных клеток медии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-067">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>adventitia</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The adventitia is the outer vascular layer and contains connective tissue and cellular populations involved in vascular remodeling and progenitor-cell biology.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>адвентиция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-068">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>atherosclerosis</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Atherosclerosis is a chronic arterial process in which plaques develop within the vessel wall and can later contribute to ischemic events.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>атеросклероз</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-069">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>angiogenesis</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Angiogenesis is the formation of new capillaries from preexisting vessels through sprouting or splitting processes in the vascular wall.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ангиогенез</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-070">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>endothelial dysfunction</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Endothelial dysfunction is impaired endothelial regulation of vascular homeostasis and is associated with conditions such as atherosclerosis and hypertension.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эндотелиальная дисфункция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-071">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiac embryogenesis</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cardiac embryogenesis encompasses the coordinated formation, specification, differentiation, and remodeling of the embryonic heart.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эмбриогенез сердца</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-072">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>primitive heart tube</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The primitive heart tube is an early embryonic cardiac structure that later bends, remodels, and gives rise to the definitive heart chambers and outflow tract.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>примитивная сердечная трубка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-073">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>heart looping</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Heart looping is the directional bending of the embryonic cardiac tube that establishes the spatial arrangement of developing cardiac chambers.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>изгибание сердечной трубки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-074">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiac progenitors</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cardiac progenitors are undifferentiated cells that proliferate and differentiate to contribute new cardiomyocytes during heart formation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сердечные клетки-предшественники</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-075">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiomyocyte</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A cardiomyocyte is a differentiated cardiac muscle cell responsible for generating force and participating in the functional contraction of the heart.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кардиомиоцит</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-076">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>endocardium</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The endocardium is the inner lining of the developing heart and lies between the cardiac lumen and myocardium.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эндокард</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-077">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>epicardium</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The epicardium is the outer embryonic heart layer that contributes cells and signals important for cardiac chamber and vascular development.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эпикард</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-078">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ventricular septation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Ventricular septation forms the partition between the right and left ventricles and is completed during early fetal heart development.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>септация желудочков</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-079">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>neural crest cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Neural crest cells are migratory embryonic cells that make essential contributions to development of the cardiac outflow tract and related structures.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>клетки нервного гребня</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-080">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>transcription factors</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Transcription factors regulate gene expression programs that establish cardiac cell identity and direct developmental lineage decisions.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>транскрипционные факторы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-081">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>genetic variants</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Genetic variants are differences in DNA sequence whose effects can range from benign changes to variants that contribute to inherited cardiovascular disease.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>генетические варианты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-082">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>genetic counseling</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Genetic counseling integrates clinical findings, family history, inheritance patterns, and testing information to guide patients and relatives.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>генетическое консультирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-083">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiomyopathy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cardiomyopathies are myocardial disorders with structural or functional abnormalities not explained by another sufficient cardiac disease.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кардиомиопатия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-084">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hypertrophic cardiomyopathy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Hypertrophic cardiomyopathy is a myocardial disorder characterized by abnormal ventricular hypertrophy and often influenced by inherited genetic variants.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гипертрофическая кардиомиопатия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-085">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>dilated cardiomyopathy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Dilated cardiomyopathy is a myocardial disorder characterized by ventricular dilation, impaired systolic function, and diverse genetic and acquired causes.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>дилатационная кардиомиопатия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-086">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>arrhythmogenic cardiomyopathy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Arrhythmogenic cardiomyopathy is an inherited myocardial phenotype characterized by arrhythmic risk and structural abnormalities involving one or more ventricles.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аритмогенная кардиомиопатия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-087">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>familial hypercholesterolemia</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Familial hypercholesterolemia is an inherited lipid disorder characterized by markedly elevated LDL cholesterol and increased premature cardiovascular risk.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>семейная гиперхолестеринемия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-088">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>genotype</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Genotype refers to the genetic constitution associated with a trait and is interpreted together with phenotype, penetrance, and family segregation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>генотип</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-089">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>phenotype</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Phenotype is the observable clinical or biological expression of genetic and environmental influences in an individual.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фенотип</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-090">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>genetic testing</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Genetic testing analyzes DNA to identify, confirm, or characterize variants relevant to inherited cardiovascular disease and family risk.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>генетическое тестирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-091">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>stem cell therapy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Stem cell therapy uses stem or progenitor cells with the aim of modifying, repairing, or replacing injured cardiovascular tissue.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>терапия стволовыми клетками</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-092">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bone marrow-derived stem cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Bone marrow-derived stem cells are progenitor populations obtained from marrow that have been investigated for mobilization, homing, and cardiovascular repair.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стволовые клетки костного мозга</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-093">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pluripotent stem cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Pluripotent stem cells can differentiate into derivatives of all three germ layers and therefore provide broad developmental potential.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>плюрипотентные стволовые клетки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-094">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>embryonic stem cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Embryonic stem cells are pluripotent cells derived from the inner cell mass of the early blastocyst and capable of forming multiple lineages.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эмбриональные стволовые клетки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-095">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>induced pluripotent stem cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Induced pluripotent stem cells arise after reprogramming differentiated adult cells and acquire properties similar to embryonic pluripotent cells.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>индуцированные плюрипотентные стволовые клетки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-096">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mesenchymal stem cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Mesenchymal stem cells are stromal progenitor cells studied for their accessibility, tissue homing, immunologic properties, and potential therapeutic use.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мезенхимальные стволовые клетки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-097">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bone marrow mononuclear cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Bone marrow mononuclear cells are a heterogeneous marrow-derived cell population extensively studied in cardiovascular cell-therapy trials.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мононуклеарные клетки костного мозга</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-098">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>myocardial regeneration</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Myocardial regeneration denotes restoration of injured cardiac tissue through processes involving progenitor cells, differentiation, repair, or other regenerative mechanisms.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>регенерация миокарда</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-099">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cardiac progenitor cells</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cardiac progenitor cells are endogenous or delivered precursor cells investigated for their possible role in myocardial repair and regeneration.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сердечные клетки-предшественники</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-100">
+        <descrip type="subjectField">Медицина: кардиология и кардиохирургия</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>allogeneic transplantation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Allogeneic transplantation uses cells from another individual and can enable prepared cell products to be available before clinical treatment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аллогенная трансплантация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

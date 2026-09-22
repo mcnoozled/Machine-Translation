@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="lab01-generator" creationtoolversion="1.0" segtype="sentence" o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext" creationdate="20260919T231845Z"/>
+  <body>
+    <tu tuid="1" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Most historians agree that William Harvey’s discovery of the circulation of blood in the early 17th century is a good place to start the modern history of cardiovascular medicine.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Большинство историков согласны с тем, что открытие Уильямом Гарвеем кровообращения в начале XVII века является хорошей отправной точкой современной истории сердечно-сосудистой медицины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Pulsus alternans was described by Ludwig Traube in 1872, and Adolf Kussmaul called attention to the paradoxical pulse in 1873, noting that the arterial pulse could transiently disappear on inspiration even though the heart sounds were still audible.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Альтернирующий пульс был описан Людвигом Траубе в 1872 году, а Адольф Куссмауль в 1873 году обратил внимание на парадоксальный пульс, отметив, что артериальный пульс мог временно исчезать на вдохе, хотя тоны сердца оставались слышимыми.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Jugular venous wave recording was initiated in France, in the mid-19th century, by Pierre-Carl Potain.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Регистрация волн яремного венозного пульса была начата во Франции в середине XIX века Пьером-Карлом Потеном.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Auscultation of the chest was first practiced by Hippocrates (460-370 bc), who applied his ear directly to the chest.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аускультация грудной клетки впервые применялась Гиппократом (460–370 гг. до н. э.), который непосредственно прикладывал ухо к грудной клетке.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>With the electrocardiogram, the activation and sequence of stimulation of the human heart could now be measured, and the anatomic basis for the conduction system confirmed.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>С помощью электрокардиограммы теперь можно было измерять активацию и последовательность возбуждения человеческого сердца и подтверждать анатомическую основу проводящей системы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>It was the impetus of cardiac surgery requiring an accurate diagnosis, initially for congenital heart and rheumatic mitral disease, that brought cardiac catheterization out of the physiology laboratory and to the forefront of clinical cardiology in the 1950s.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Именно потребность кардиохирургии в точной диагностике, первоначально при врождённых пороках сердца и ревматическом поражении митрального клапана, вывела катетеризацию сердца из физиологической лаборатории на передний план клинической кардиологии в 1950-х годах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>His classic account marks the beginning of our appreciation of coronary artery disease and myocardial ischemia.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Его классическое описание стало началом нашего понимания ишемической болезни сердца и ишемии миокарда.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Nevertheless, a coronary cause of angina pectoris was not readily accepted until the late 19th century.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Тем не менее коронарная причина стенокардии не была легко принята вплоть до конца XIX века.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>At that time, acute or chronic myocarditis was thought to be the major cause; however, he considered the role of hypertension, ventricular hypertrophy and dilatation, heart failure without enlargement, and familial occurrence.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В то время основной причиной считался острый или хронический миокардит; однако он рассматривал также роль гипертензии, гипертрофии и дилатации желудочков, сердечной недостаточности без увеличения сердца и семейной предрасположенности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Biventricular pacing (1998) for patients with left ventricular dysfunction coupled with defibrillation capability has improved the quality of life and reduced mortality among some groups of patients with systolic heart failure.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Бивентрикулярная стимуляция (1998) у пациентов с дисфункцией левого желудочка в сочетании с возможностью дефибрилляции улучшила качество жизни и снизила смертность в некоторых группах пациентов с систолической сердечной недостаточностью.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Cardiovascular diseases (CVDs) are the most common cause of premature death in the world.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сердечно-сосудистые заболевания являются наиболее частой причиной преждевременной смерти в мире.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>IHD is the leading cause of death worldwide.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ишемическая болезнь сердца является ведущей причиной смерти во всём мире.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Overall, the age-standardized DALY rates for IHD, lower respiratory infections, and cerebrovascular disease declined, although not sufficiently for these conditions to be replaced as the leading causes of disease burden worldwide.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В целом возраст-стандартизированные показатели DALY для ишемической болезни сердца, инфекций нижних дыхательных путей и цереброваскулярных заболеваний снизились, хотя недостаточно, чтобы эти состояния перестали быть ведущими причинами глобального бремени болезней.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Abdominal aortic aneurysm (AAA) is a focal dilation of the abdominal aorta of at least 1.5 times the normal diameter or an absolute value of 3.0 cm or greater.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аневризма брюшной аорты представляет собой локальное расширение брюшной аорты как минимум в 1,5 раза по сравнению с нормальным диаметром или до абсолютного значения не менее 3,0 см.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Peripheral arterial disease (PAD) is a circulatory problem in which narrowed arteries reduce blood flow to the limbs and causes symptoms of leg pain with walking (claudication).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Заболевание периферических артерий является нарушением кровообращения, при котором суженные артерии уменьшают кровоток в конечностях и вызывают боль в ногах при ходьбе (хромоту).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Age-adjusted disability-adjusted life year rates of atrial fibrillation for men and women in developed versus developing countries (2010).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возраст-стандартизированные показатели лет жизни, скорректированных на инвалидность, при фибрилляции предсердий у мужчин и женщин в развитых и развивающихся странах (2010 год).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Infective endocarditis (IE) is an infection caused by bacteria, or other infectious pathogens, that enter the bloodstream and cause inflammation in the heart tissues, often on a valve.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Инфекционный эндокардит представляет собой инфекцию, вызванную бактериями или другими инфекционными патогенами, которые попадают в кровоток и вызывают воспаление тканей сердца, часто на клапане.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Although not the primary focus of this chapter, risk factors for CVD are also considered at a broad level, including not only traditional cardiometabolic risks but also emerging related risks, including mental illnesses, air pollution, and human immunodeficiency virus (HIV).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Хотя это не является основной темой главы, факторы риска сердечно-сосудистых заболеваний также рассматриваются на широком уровне, включая не только традиционные кардиометаболические риски, но и новые связанные риски, такие как психические заболевания, загрязнение воздуха и вирус иммунодефицита человека.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Elevated blood pressure is estimated to be the single largest contributor to the global burden of disease and global mortality.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>По оценкам, повышенное артериальное давление является крупнейшим отдельным фактором глобального бремени болезней и глобальной смертности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Hyperglycemia and diabetes mellitus are significant contributors to CVD worldwide.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гипергликемия и сахарный диабет являются значимыми факторами, способствующими развитию сердечно-сосудистых заболеваний во всём мире.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Health care is a complex multidimensional phenomenon with a myriad of factors influencing both the delivery and quality of care provided.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Медицинская помощь представляет собой сложное многомерное явление с множеством факторов, влияющих как на её предоставление, так и на качество оказываемой помощи.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The following sections highlight the two most common approaches for performing QA/quality improvement (QI) initiatives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В следующих разделах освещаются два наиболее распространённых подхода к проведению инициатив по обеспечению и улучшению качества.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Clinical practice guidelines are written in the spirit of suggesting diagnostic or therapeutic interventions that appear to be effective (or not) for patients in most circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Клинические рекомендации составляются с целью предлагать диагностические или терапевтические вмешательства, которые кажутся эффективными или неэффективными для пациентов в большинстве обстоятельств.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>These efforts include the development of data standards, evidence-based clinical guidelines, performance measures, and appropriate use criteria (AUC).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Эти усилия включают разработку стандартов данных, клинических рекомендаций на основе доказательств, показателей эффективности и критериев надлежащего применения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>These efforts include the development of data standards, evidence-based clinical guidelines, performance measures, and appropriate use criteria (AUC).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Эти усилия включают разработку стандартов данных, клинических рекомендаций на основе доказательств, показателей эффективности и критериев надлежащего применения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>In the following sections, we provide an overview of three such tools—clinical guidelines, performance measures, and appropriate use criteria—developed and promoted for QA/QI initiatives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В следующих разделах мы представляем обзор трёх таких инструментов — клинических рекомендаций, показателей эффективности и критериев надлежащего применения, разработанных и продвигаемых для инициатив по обеспечению и улучшению качества.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>When substantial randomized clinical trial data are lacking, smaller clinical trials or expert panel consensus are used to recommend clinical care in specific circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Когда отсутствуют существенные данные рандомизированных клинических исследований, для рекомендаций по клинической помощи в определённых обстоятельствах используются небольшие клинические исследования или консенсус экспертной группы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>However, organizations such as the Centers for Medicare &amp; Medicaid Services, the Joint Commission, the National Quality Forum, the National Committee for Quality Assurance, and the Ambulatory Quality Care Alliance play key roles in either developing performance measures or adjudicating their value for national QI efforts.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Однако такие организации, как Centers for Medicare &amp; Medicaid Services, Joint Commission, National Quality Forum, National Committee for Quality Assurance и Ambulatory Quality Care Alliance, играют ключевую роль в разработке показателей эффективности или оценке их значения для национальных инициатив по улучшению качества.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Outcome refers to tangible measures that capture the consequences of care and range from manifestations of disease progression (eg, mortality and hospitalizations) to patient-centered outcomes of health status and treatment satisfaction.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Результат относится к измеримым показателям, отражающим последствия медицинской помощи, от проявлений прогрессирования болезни до ориентированных на пациента результатов, таких как состояние здоровья и удовлетворённость лечением.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Enhanced support for shared decision making reduced costs of care for patients with preference-sensitive conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Расширенная поддержка совместного принятия решений снизила затраты на медицинскую помощь для пациентов с состояниями, чувствительными к предпочтениям.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>In the floor of the right atrium is the orifice of the inferior vena cava (IVC).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В дне правого предсердия находится отверстие нижней полой вены.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The pulmonary veins (PulV) enter the posterior aspect of the left atrium.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Лёгочные вены входят в заднюю часть левого предсердия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The anterior tricuspid leaflet is the largest and most mobile and forms an intracavitary curtain that partially separates the inflow and outflow tracts of the right ventricle (Fig. 4–23).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Передняя створка трёхстворчатого клапана является самой крупной и подвижной и образует внутриполостную перегородку, частично разделяющую входной и выходной тракты правого желудочка.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The long-axis two-chamber method (Fig. 4–14) involves bisecting the heart from the left ventricular apex through the mitral orifice and into the left atrium.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Двухкамерный метод по длинной оси включает рассечение сердца от верхушки левого желудочка через митральное отверстие до левого предсердия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The tricuspid valve is comprised of five components (ie, annulus, leaflets, commissures, chordae tendineae, and papillary muscles).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Трёхстворчатый клапан состоит из пяти компонентов: кольца, створок, комиссур, сухожильных хорд и сосочковых мышц.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Abnormalities of the mitral valve apparatus can involve any of these components or combinations thereof.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аномалии аппарата митрального клапана могут затрагивать любой из этих компонентов или их сочетания.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The centrally located aortic valve forms the cornerstone of the cardiac skeleton, and its fibrous extensions abut each of the other three valves.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Центрально расположенный аортальный клапан образует основу фиброзного скелета сердца, а его фиброзные продолжения прилежат к каждому из трёх других клапанов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>A prominent arch-shaped muscular ridge known as the crista supraventricularis separates the tricuspid and pulmonary valves.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Выраженный дугообразный мышечный гребень, известный как наджелудочковый гребень, разделяет трёхстворчатый клапан и клапан лёгочной артерии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Beneath the two mitral commissures lie the anterolateral and posteromedial papillary muscles, which arise from the left ventricular free wall (see Figs. 4–18B and 4–25).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Под двумя митральными комиссурами расположены переднелатеральная и заднемедиальная сосочковые мышцы, которые отходят от свободной стенки левого желудочка.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Chordae tendineae progressively arborize from their anchoring point on the papillary muscle to their ultimate insertion on the free edge (so-called primary chords) and the rough zone (so-called secondary chords).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сухожильные хорды постепенно ветвятся от точки прикрепления на сосочковой мышце до конечного места прикрепления у свободного края (так называемые первичные хорды) и шероховатой зоны (так называемые вторичные хорды).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The cardiac cycle describes pressure, volume, and flow phenomena in the ventricles as a function of time.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сердечный цикл описывает изменения давления, объёма и кровотока в желудочках во времени.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Contraction (systole) begins after an approximately 50-ms delay and results in closure of the mitral valve.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сокращение (систола) начинается после задержки примерно в 50 мс и приводит к закрытию митрального клапана.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Diastole is the summation of processes by which the heart keeps latent its ability to generate force and shorten, and returns to its precontractile state.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Диастола представляет собой совокупность процессов, благодаря которым сердце сохраняет способность развивать силу и укорачиваться, возвращаясь к своему предсократительному состоянию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Changes in cardiac output necessary to meet the metabolic needs of the tissues can be produced by changes in the stroke volume, heart rate, or both.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Изменения сердечного выброса, необходимые для удовлетворения метаболических потребностей тканей, могут быть достигнуты изменениями ударного объёма, частоты сердечных сокращений или обоих показателей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Cardiac output responds to changes in the oxygen requirements of tissues, for example, as occurs with exercise.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сердечный выброс реагирует на изменения потребности тканей в кислороде, например возникающие при физической нагрузке.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>A fundamental property of striated muscle is that the strength of this isometric twitch is dependent on the initial resting muscle length, or preload (Fig. 5–10B).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Фундаментальным свойством поперечно-полосатой мышцы является то, что сила изометрического сокращения зависит от исходной длины покоя мышцы, или преднагрузки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Initial muscle length is determined by applying a preload; an additional load known as the afterload, affects muscle behavior after stimulation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Исходная длина мышцы определяется применением преднагрузки; дополнительная нагрузка, известная как постнагрузка, влияет на поведение мышцы после стимуляции.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Fundamental to cardiac muscle function are the relationships between force and muscle length, velocity of shortening, calcium, and heart rate.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Основу функции сердечной мышцы составляют взаимосвязи между силой и длиной мышцы, скоростью укорочения, кальцием и частотой сердечных сокращений.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The ascending limb of the length–tension relationship (equivalent to the Frank-Starling relationship that relates preload to cardiac performance) is also caused by a length-dependent increase in myofilament calcium sensitivity (Fig. 5–9A).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Восходящая часть зависимости длина–напряжение, эквивалентная соотношению Франка—Старлинга, связывающему преднагрузку с работой сердца, также обусловлена зависимым от длины повышением чувствительности миофиламентов к кальцию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The baroreflex system operates as an open loop with negative feedback and cushions changes in arterial pressure, such as those produced by changes in posture.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Барорефлекторная система работает как разомкнутый контур с отрицательной обратной связью и смягчает изменения артериального давления, например вызванные изменением положения тела.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Activation of cardiac β-adrenergic receptors (ARs) represents a powerful system to increase cardiac contractility and heart rate.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Активация β-адренергических рецепторов сердца представляет собой мощную систему повышения сократимости сердца и частоты сердечных сокращений.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>These events lead to rapid (within seconds) changes of the cardiomyocyte calcium transient and enhanced myofilament sensitivity for calcium, resulting in potent inotropic effects.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Эти события приводят к быстрым, происходящим в течение секунд, изменениям кальциевого транзиента кардиомиоцита и повышению чувствительности миофиламентов к кальцию, что вызывает выраженные инотропные эффекты.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The Ca2+ pumping activity of SERCA2a is negatively regulated by phospholamban.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Насосная активность SERCA2a по перекачиванию Ca2+ отрицательно регулируется фосфоламбаном.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>This includes phospholamban, the L-type Ca-channel, the ryanodine receptor, troponin T and I, myosinbinding protein C, and the small protein phosphatase inhibitor-1.5</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>К ним относятся фосфоламбан, L-тип кальциевого канала, рианодиновый рецептор, тропонин T и I, миозин-связывающий белок C и малый белок-ингибитор протеинфосфатазы-1.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>T-tubules invaginate the plasma membrane, rendering L-type Ca2+ channels in close proximity to the Ca2+ release channels, known as ryanodine receptors (RyRs).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Т-трубочки инвагинируют плазматическую мембрану, приближая L-тип каналы Ca2+ к каналам высвобождения Ca2+, известным как рианодиновые рецепторы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Relaxation occurs when calcium detaches from troponin C and is sequestered back into the SR by the cardiac isoform of the Ca2+ ATPase pump (sarcoplasmic reticulum Ca2+-ATPase [SERCA2a]) or extruded extracellularly by the sarcolemmal Na+/Ca2+ exchanger (NCX) (see Fig. 6–2).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Расслабление происходит, когда кальций отделяется от тропонина C и снова захватывается в саркоплазматический ретикулум сердечной изоформой Ca2+-АТФазного насоса (Ca2+-АТФаза саркоплазматического ретикулума [SERCA2a]) или выводится во внеклеточную среду сарколеммальным обменником Na+/Ca2+ (NCX).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>This includes phospholamban, the L-type Ca-channel, the ryanodine receptor, troponin T and I, myosinbinding protein C, and the small protein phosphatase inhibitor-1.5</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>К ним относятся фосфоламбан, L-тип кальциевого канала, рианодиновый рецептор, тропонин T и I, миозин-связывающий белок C и малый белок-ингибитор протеинфосфатазы-1.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>When the cytosolic Ca2+ is low, the tropomyosin-troponin complex is positioned in such a way that the myosin heads cannot interact with actin.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Когда цитозольный Ca2+ находится на низком уровне, комплекс тропомиозин–тропонин расположен так, что головки миозина не могут взаимодействовать с актином.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Apoptosis is a genetically programmed and energyrequiring series of events that permits the cell to die without inducing an inflammatory response.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Апоптоз представляет собой генетически запрограммированную и требующую энергии последовательность событий, позволяющую клетке погибать без вызова воспалительной реакции.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Autophagy is another protein quality control system that is involved in a bulk degradation of long-lived proteins and aggregated proteins.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аутофагия является ещё одной системой контроля качества белков, участвующей в массовой деградации долгоживущих и агрегированных белков.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Not surprisingly, endothelial cells are pivotal to maintaining vascular homeostasis, and multiple vascular diseases arise from endothelial dysfunction, including atherosclerosis and hypertension.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Неудивительно, что эндотелиальные клетки играют ключевую роль в поддержании сосудистого гомеостаза, а многие сосудистые заболевания возникают из-за эндотелиальной дисфункции, включая атеросклероз и гипертензию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Nitric Oxide Furchgott and Zawadzki34 first described an endothelium-derived relaxing factor (EDRF) in the context of a dilatory response in aortic rings in response to acetylcholine; EDRF was subsequently determined to be nitric oxide (NO).35</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оксид азота: Фурчготт и Завадзкий впервые описали эндотелиальный релаксирующий фактор в контексте дилатационного ответа колец аорты на ацетилхолин; впоследствии было установлено, что EDRF является оксидом азота (NO).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The endothelium also serves as a barrier to the underlying vascular smooth muscle; dynamic regulation allows for selective exposure of the underlying vascular wall and smooth muscle cells to mitogenic, thrombotic, and vasoactive agents that have specific downstream effects.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Эндотелий также служит барьером для расположенной под ним гладкой мускулатуры сосудов; динамическая регуляция обеспечивает выборочное воздействие на сосудистую стенку и гладкомышечные клетки митогенных, тромбогенных и вазоактивных агентов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Extracellular matrix (ECM) is a major component of the vascular wall.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Внеклеточный матрикс является основным компонентом сосудистой стенки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Neointimal formation occurs on the luminal side of the innermost aspect of the arterial elastic laminae, this being the intimal layer.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Неоинтимальное образование происходит со стороны просвета во внутреннейшей части артериальных эластических пластинок, которая и является интимальным слоем.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Contraction and relaxation of the vascular wall is mediated by changes in medial VSMC tone, which as already mentioned can be affected by various signaling molecules, hormones, and other factors.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сокращение и расслабление сосудистой стенки опосредуются изменениями тонуса гладкомышечных клеток медии, на который, как уже упоминалось, могут влиять различные сигнальные молекулы, гормоны и другие факторы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Perhaps the most convincing data for the existence of resident vascular progenitor cells is from the adventitia.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возможно, наиболее убедительные данные о существовании резидентных сосудистых клеток-предшественников получены именно из адвентиции.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Atherosclerosis develops over many years (1) and can lead to myocardial infarction (2), while the stress of acute myocardial infarction (2) also produces an “echo” in atherosclerotic plaques (1).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Атеросклероз развивается в течение многих лет и может привести к инфаркту миокарда, тогда как острый инфаркт миокарда также создаёт «эхо» в атеросклеротических бляшках.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Angiogenesis (middle) is the most common form of de novo new vessel formation in the adult, which is the formation of new capillaries from preexisting vessels that can occur by the sprouting or splitting of these preexisting vessels by transcapillary pillars or posts of extracellular matrix and/or cells.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ангиогенез является наиболее распространённой формой образования новых сосудов у взрослых и представляет собой формирование новых капилляров из уже существующих сосудов посредством их отпочковывания или расщепления.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>However, this process is especially important in atherosclerosis, with endothelial dysfunction being clinically detectable before the macroscopic presence of formed atherosclerotic plaques.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Однако этот процесс особенно важен при атеросклерозе, при котором эндотелиальная дисфункция может быть клинически выявлена ещё до макроскопического появления сформированных атеросклеротических бляшек.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Cardiac precursors are found shortly after gastrulation (the formation of the three embryonic layers: ectoderm, endoderm, mesoderm) within the mesodermal component of the splanchnopleural layer of the anteriormost lateral plate (Fig. 8–1).2,6,7</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Предшественники сердца обнаруживаются вскоре после гаструляции, то есть образования трёх зародышевых слоёв: эктодермы, энтодермы и мезодермы, в мезодермальном компоненте спланхноплеврального слоя передней части латеральной пластинки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>After the primitive heart tube has formed (see Fig. 8–3), the SHF serves both as a reservoir of undifferentiated cardiac progenitors and as the source of new differentiating cardiomyocytes that will be added to both poles of the heart tube.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>После формирования примитивной сердечной трубки второй сердечный карман служит резервуаром недифференцированных сердечных клеток-предшественников и источником новых дифференцирующихся кардиомиоцитов, которые добавляются к обоим полюсам сердечной трубки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>During heart looping, the cardiac tube undergoes a dextral bending that positions the right ventricle primordium in its definitive position with respect to left ventricle (see Fig. 8–5).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Во время изгибания сердечной трубки она отклоняется вправо, что помещает зачаток правого желудочка в его окончательное положение относительно левого желудочка.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>After the primitive heart tube has formed (see Fig. 8–3), the SHF serves both as a reservoir of undifferentiated cardiac progenitors and as the source of new differentiating cardiomyocytes that will be added to both poles of the heart tube.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>После формирования примитивной сердечной трубки второй сердечный карман служит резервуаром недифференцированных сердечных клеток-предшественников и источником новых дифференцирующихся кардиомиоцитов, которые добавляются к обоим полюсам сердечной трубки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>We will also discuss the progressive incorporation of second heart field precursors and the differentiation of the different cardiomyocyte subtypes.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Мы также обсудим постепенное включение предшественников второго сердечного поля и дифференцировку различных подтипов кардиомиоцитов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Interiorly, the primitive cardiac tube is lined by the endocardium, which is separated from the myocardium by a mass of cardiac jelly (see Fig. 8–2).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Изнутри примитивная сердечная трубка выстлана эндокардом, который отделён от миокарда массой сердечного студня.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>In the region of the AV canal, a third mesenchymal population derives, again by EMT, from the epicardium (see below).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В области атриовентрикулярного канала третья мезенхимальная популяция снова происходит посредством эпителиально-мезенхимного перехода из эпикарда.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Ventricular septation is a relatively early and simple process, which is completed around the 7th week (E14.5 in the mouse).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Септация желудочков является относительно ранним и простым процессом, который завершается примерно к седьмой неделе, то есть к E14.5 у мыши.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Neural crest cells contribute to normal aorticopulmonary septation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Клетки нервного гребня участвуют в нормальной аортолёгочной септации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>This gradient establishes the border between the cardiac and forelimb fields through the regulation of Hox transcription factors and promotes the atrial versus the ventricular fate.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Этот градиент устанавливает границу между сердечным и передне-конечностным полями посредством регуляции транскрипционных факторов Hox и способствует формированию предсердной или желудочковой судьбы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>A pipeline for interpretation of genetic variants is summarized in Fig. 9–3.45</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Схема интерпретации генетических вариантов представлена на рис. 9–3.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Clinical genetic workup includes comprehensive phenotype evaluation/deep phenotyping in probands, genetic counseling, pedigree generation, and clinical family screening.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Клиническое генетическое обследование включает всестороннюю оценку фенотипа или глубокое фенотипирование пробанда, генетическое консультирование, составление родословной и клинический семейный скрининг.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>CMPs are myocardial disorders characterized by structurally and functionally abnormal heart muscle and absence of other diseases sufficient to cause the observed myocardial abnormality.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Кардиомиопатии представляют собой заболевания миокарда, характеризующиеся структурно и функционально аномальной сердечной мышцей при отсутствии других заболеваний, достаточных для объяснения наблюдаемой аномалии миокарда.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The proband (III:1) is a young lady demonstrating short stature (151 cm), with a long history of muscle "weakness," renal failure, hypertrophic cardiomyopathy (HCM, which evolved through DCM), hearing loss, cryptogenic stroke, and optic neuritis.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Пробанд III:1 — молодая женщина невысокого роста (151 см) с длительной историей мышечной «слабости», почечной недостаточностью, гипертрофической кардиомиопатией (ГКМП, которая развилась в ДКМП), потерей слуха, криптогенным инсультом и невритом зрительного нерва.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The left side figure shows the most common disease genes for dilated cardiomyopathy; LMNA is one of the most common disease genes in dilated cardiomyopathy (DCM) (up to 7% of cases).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На левой части рисунка показаны наиболее распространённые гены заболеваний при дилатационной кардиомиопатии; LMNA является одним из наиболее распространённых генов заболеваний при дилатационной кардиомиопатии, выявляясь до 7% случаев.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The morphofunctional phenotypes DCM, HCM, restrictive cardiomyopathy (RCM), arrhythmogenic right, left and biventricular cardiomyopathy (ARC), and left ventricular noncompaction cardiomyopathy (LVNC) drive the currently used clinical classifications.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Морфофункциональные фенотипы ДКМП, ГКМП, рестриктивной кардиомиопатии, аритмогенной правожелудочковой, левожелудочковой и бивентрикулярной кардиомиопатии, а также некомпактности левого желудочка определяют используемые в настоящее время клинические классификации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>These include gene-based agents, eg, mipomersen, approved in the United States for homozygous familial hypercholesterolemia; and Glybera, AAV1-LPLS447X gene therapy, conditionally approved in Europe for lipoprotein lipase deficiency286 in carriers of null LDLR mutations who are at increased risk, even in the setting of early diagnosis and regular lipid-lowering treatments.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>К ним относятся препараты, основанные на генах, например мипомерсен, одобренный в США для гомозиготной семейной гиперхолестеринемии, а также Glybera, генная терапия AAV1-LPLS447X, условно одобренная в Европе при дефиците липопротеинлипазы у носителей нулевых мутаций LDLR, имеющих повышенный риск даже при ранней диагностике и регулярной липидснижающей терапии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The segregation analysis of the genotype with phenotype can be complicated by incomplete penetrance because affected members of the same family may not show the phenotype at time of screening; regular clinical monitoring should be scheduled for clinically unaffected but genetically affected family members.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Анализ сегрегации генотипа с фенотипом может быть осложнён неполной пенетрантностью, поскольку поражённые члены одной семьи могут не проявлять фенотип на момент скрининга; для клинически здоровых, но генетически поражённых членов семьи следует планировать регулярное клиническое наблюдение.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The proband (I:1) manifested severe DCM phenotype at the age of 35 years.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>У пробанда I:1 тяжёлый фенотип дилатационной кардиомиопатии проявился в возрасте 35 лет.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Today, genetic tests are routinely performed using next-generation sequencing (NGS) of multiple genes; Sanger sequencing is used for confirmation of the mutation identified by NGS and for cascade genetic testing in relatives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сегодня генетические тесты обычно выполняются с использованием секвенирования следующего поколения нескольких генов; секвенирование по Сэнгеру используется для подтверждения мутации, выявленной методом NGS, и для каскадного генетического тестирования родственников.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>To date, no stem cell therapy is approved by the Food and Drug Administration for a cardiovascular indication, but the growing body of literature provides a promising signal to encourage multiple Phase III clinical trials.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На сегодняшний день ни одна терапия стволовыми клетками не одобрена Управлением по санитарному надзору за качеством пищевых продуктов и медикаментов для сердечно-сосудистых показаний, однако растущий объём литературы даёт обнадёживающий сигнал для проведения нескольких клинических исследований III фазы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Directed homing of bone marrow–derived stem cells after myocardial injury produced functional improvements in animal studies,1,2 leading to the hypothesis that enhancing mobilization of bone marrow stem cells or their direct delivery can result in clinical improvement in acute or chronic cardiac injury.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Направленное приживление происходящих из костного мозга стволовых клеток после повреждения миокарда приводило к функциональным улучшениям в исследованиях на животных, что привело к гипотезе о том, что усиление мобилизации стволовых клеток костного мозга или их прямое введение может улучшить состояние при остром или хроническом повреждении сердца.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Although pluripotent stem cells (PSCs), such as embryonic stem cells (ESCs) or induced pluripotent stem cells (iPSCs) have a robust potential to differentiate into cardiomyocytes, the differentiation capacity of other stem cell lines is more limited.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Хотя плюрипотентные стволовые клетки, такие как эмбриональные стволовые клетки или индуцированные плюрипотентные стволовые клетки, обладают высокой способностью дифференцироваться в кардиомиоциты, способность к дифференцировке других линий стволовых клеток более ограничена.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>First isolated in 1998, human ESCs are PSCs that exist in the inner cell mass of early stage dividing embryo (blastocyst).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Впервые выделенные в 1998 году человеческие эмбриональные стволовые клетки являются плюрипотентными клетками, существующими во внутренней клеточной массе раннего делящегося эмбриона, то есть бластоцисты.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The reprogramming can be driven by viruses, plasmids, microRNA, or proteins.186 By inducing the adult cells to express major markers of pluripotency, iPSCs take on a phenotype very close to ESCs and are capable of differentiating into all three germ layers and subsequent stem cell types.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Перепрограммирование может осуществляться с помощью вирусов, плазмид, микроРНК или белков. Индуцируя в взрослых клетках экспрессию основных маркеров плюрипотентности, иПСК приобретают фенотип, очень близкий к ЭСК, и способны дифференцироваться во все три зародышевых листка и последующие типы стволовых клеток.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>MSCs have the added advantage of homing to injured myocardial tissue, which facilitates intravenous administration.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>МСК имеют дополнительное преимущество в виде способности направляться к повреждённой ткани миокарда, что облегчает внутривенное введение.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>The trials largely targeted patients with ST elevation MI and treated them with intracoronary infusion of BMMNCs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В исследованиях в основном участвовали пациенты с инфарктом миокарда с подъёмом сегмента ST, которым выполняли внутрикоронарное введение мононуклеарных клеток костного мозга.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Adult cardiac stem cells are multipotent and support myocardial regeneration.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Взрослые сердечные стволовые клетки являются мультипотентными и поддерживают регенерацию миокарда.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Whether the beneficial effects of cardiac progenitor cells occur because of cardiomyocyte differentiation, angiogenesis, or paracrine effects is not fully understood, and these potential mechanisms are under investigation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Полностью не установлено, обусловлены ли благоприятные эффекты сердечных клеток-предшественников дифференцировкой кардиомиоцитов, ангиогенезом или паракринными эффектами; эти потенциальные механизмы изучаются.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100" creationdate="20260919T231845Z">
+      <prop type="domain">Cardiology</prop>
+      <tuv xml:lang="en">
+        <seg>Allogeneic transplantation has the advantage of having the cell therapy population ready in advance for clinical use so called “off the shelf” delivery.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аллогенная трансплантация имеет преимущество, заключающееся в том, что популяция клеток для клеточной терапии заранее готова к клиническому применению, то есть может предоставляться «с полки».</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
