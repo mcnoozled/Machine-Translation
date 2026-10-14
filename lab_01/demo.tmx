@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="demo" creationtoolversion="1.0" segtype="sentence"
+          o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext"/>
+  <body>
+    <tu tuid="1">
+      <prop type="domain">Demo</prop>
+      <tuv xml:lang="en"><seg>The flight controller stabilises the aircraft.</seg></tuv>
+      <tuv xml:lang="ru"><seg>Полётный контроллер стабилизирует аппарат.</seg></tuv>
+    </tu>
+    <tu tuid="2">
+      <prop type="domain">Demo</prop>
+      <tuv xml:lang="en"><seg>The operator checks the telemetry link.</seg></tuv>
+      <tuv xml:lang="ru"><seg>Оператор проверяет канал телеметрии.</seg></tuv>
+    </tu>
+    <tu tuid="3">
+      <prop type="domain">Demo</prop>
+      <tuv xml:lang="en"><seg>The payload is mounted under the fuselage.</seg></tuv>
+      <tuv xml:lang="ru"><seg>Целевая нагрузка устанавливается под фюзеляжем.</seg></tuv>
+    </tu>
+  </body>
+</tmx>

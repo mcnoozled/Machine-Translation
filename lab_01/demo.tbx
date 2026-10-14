@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<martif type="TBX" xml:lang="en">
+  <martifHeader><fileDesc><titleStmt><title>Demo glossary</title></titleStmt>
+  </fileDesc></martifHeader>
+  <text><body>
+    <termEntry id="tid-001">
+      <descrip type="subjectField">Demo</descrip>
+      <langSet xml:lang="en">
+        <tig><term>flight controller</term>
+        <termNote type="partOfSpeech">noun</termNote>
+        <descrip type="definition">Onboard flight computer.</descrip></tig>
+      </langSet>
+      <langSet xml:lang="ru">
+        <ntig><termGrp><term>полётный контроллер</term></termGrp></ntig>
+      </langSet>
+    </termEntry>
+    <termEntry id="tid-002">
+      <descrip type="subjectField">Demo</descrip>
+      <langSet xml:lang="en"><tig><term>payload</term>
+        <termNote type="partOfSpeech">noun</termNote></tig></langSet>
+      <langSet xml:lang="ru"><ntig><termGrp><term>целевая нагрузка</term>
+        </termGrp></ntig></langSet>
+    </termEntry>
+    <termEntry id="tid-003">
+      <descrip type="subjectField">Demo</descrip>
+      <langSet xml:lang="en"><tig><term>telemetry link</term></tig></langSet>
+      <langSet xml:lang="ru"><ntig><termGrp><term>канал телеметрии</term>
+        </termGrp></ntig></langSet>
+    </termEntry>
+  </body></text>
+</martif>
