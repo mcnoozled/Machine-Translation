@@ -1,0 +1,207 @@
+﻿model,term,n_words,n_tokens,tokens,is_word_level
+MarianMT,circulation of blood,3,3,▁circulation ▁of ▁blood,True
+MarianMT,arterial pulse,2,4,▁art er ial ▁pulse,False
+MarianMT,jugular venous pulse,3,7,▁ju g ular ▁ ven ous ▁pulse,False
+MarianMT,auscultation,1,5,▁a us cul t ation,False
+MarianMT,electrocardiogram,1,4,▁electro card io gram,False
+MarianMT,cardiac catheterization,2,7,▁card ia c ▁ca the ter ization,False
+MarianMT,coronary artery disease,3,6,▁co ron ary ▁art ery ▁disease,False
+MarianMT,angina pectoris,2,7,▁an g ina ▁p ec to ris,False
+MarianMT,hypertension,1,1,▁hypertension,True
+MarianMT,heart failure,2,2,▁heart ▁failure,True
+MarianMT,cardiovascular diseases,2,2,▁cardiovascular ▁diseases,True
+MarianMT,ischemic heart disease,3,5,▁is chem ic ▁heart ▁disease,False
+MarianMT,cerebrovascular disease,2,7,▁c ere br ova sc ular ▁disease,False
+MarianMT,abdominal aortic aneurysm,3,9,▁abdominal ▁a or tic ▁an e ury s m,False
+MarianMT,peripheral arterial disease,3,5,▁peripheral ▁art er ial ▁disease,False
+MarianMT,atrial fibrillation,2,6,▁a trial ▁fi b rill ation,False
+MarianMT,infective endocarditis,2,7,▁in fect ive ▁end o card itis,False
+MarianMT,risk factors,2,2,▁risk ▁factors,True
+MarianMT,diabetes mellitus,2,4,▁diabetes ▁m elli tus,False
+MarianMT,quality of care,3,3,▁quality ▁of ▁care,True
+MarianMT,quality improvement,2,2,▁quality ▁improvement,True
+MarianMT,clinical practice guidelines,3,3,▁clinical ▁practice ▁guidelines,True
+MarianMT,performance measures,2,2,▁performance ▁measures,True
+MarianMT,evidence-based clinical guidelines,3,5,▁evidence - based ▁clinical ▁guidelines,False
+MarianMT,appropriate use criteria,3,3,▁appropriate ▁use ▁criteria,True
+MarianMT,randomized clinical trial,3,4,▁random ized ▁clinical ▁trial,False
+MarianMT,quality assurance,2,2,▁quality ▁assurance,True
+MarianMT,patient-centered outcomes,2,5,▁patient - c entered ▁outcomes,False
+MarianMT,shared decision making,3,3,▁shared ▁decision ▁making,True
+MarianMT,right atrium,2,4,▁right ▁at r ium,False
+MarianMT,left atrium,2,4,▁left ▁at r ium,False
+MarianMT,right ventricle,2,4,▁right ▁vent ric le,False
+MarianMT,left ventricle,2,4,▁left ▁vent ric le,False
+MarianMT,tricuspid valve,2,4,▁tri cus pid ▁valve,False
+MarianMT,mitral valve,2,4,▁ mit ral ▁valve,False
+MarianMT,aortic valve,2,4,▁a or tic ▁valve,False
+MarianMT,pulmonary valve,2,5,▁p ul mon ary ▁valve,False
+MarianMT,papillary muscle,2,4,▁p ap illary ▁muscle,False
+MarianMT,chordae tendineae,2,8,▁ch or da e ▁tend ine a e,False
+MarianMT,cardiac cycle,2,4,▁card ia c ▁cycle,False
+MarianMT,systole,1,4,▁s y st ole,False
+MarianMT,diastole,1,4,▁di a st ole,False
+MarianMT,stroke volume,2,2,▁stroke ▁volume,True
+MarianMT,cardiac output,2,4,▁card ia c ▁output,False
+MarianMT,preload,1,2,▁pre load,False
+MarianMT,afterload,1,2,▁after load,False
+MarianMT,contractility,1,2,▁contract ility,False
+MarianMT,Frank-Starling relationship,2,6,▁Frank - S tar ling ▁relationship,False
+MarianMT,baroreflex system,2,5,▁bar or ef lex ▁system,False
+MarianMT,β-adrenergic receptors,2,11,▁ β - ad ren er g ic ▁ receptor s,False
+MarianMT,calcium transient,2,2,▁calcium ▁transient,True
+MarianMT,phospholamban,1,4,▁phosph ol amba n,False
+MarianMT,L-type Ca-channel,2,7,▁L - type ▁Ca - chan nel,False
+MarianMT,ryanodine receptors,2,7,▁r yan od ine ▁ receptor s,False
+MarianMT,sarcoplasmic reticulum,2,9,▁ sar cop las mic ▁re tic ulu m,False
+MarianMT,troponin T and I,4,6,▁tro pon in ▁T ▁and ▁I,False
+MarianMT,actin,1,2,▁act in,False
+MarianMT,apoptosis,1,4,▁a pop to sis,False
+MarianMT,autophagy,1,3,▁auto pha gy,False
+MarianMT,endothelial cells,2,5,▁end oth el ial ▁cells,False
+MarianMT,nitric oxide,2,3,▁nitri c ▁oxide,False
+MarianMT,vascular smooth muscle,3,6,▁v as c ular ▁smooth ▁muscle,False
+MarianMT,extracellular matrix,2,4,▁extra cell ular ▁matrix,False
+MarianMT,intimal layer,2,4,▁in tim al ▁layer,False
+MarianMT,medial VSMC tone,3,7,▁media l ▁V S MC ▁to ne,False
+MarianMT,adventitia,1,3,▁advent iti a,False
+MarianMT,atherosclerosis,1,6,▁a the ros c ler osis,False
+MarianMT,angiogenesis,1,5,▁an gi ogen es is,False
+MarianMT,endothelial dysfunction,2,5,▁end oth el ial ▁dysfunction,False
+MarianMT,cardiac embryogenesis,2,7,▁card ia c ▁embryo gen es is,False
+MarianMT,primitive heart tube,3,3,▁primitive ▁heart ▁tube,True
+MarianMT,heart looping,2,3,▁heart ▁loop ing,False
+MarianMT,cardiac progenitors,2,7,▁card ia c ▁pro gen it ors,False
+MarianMT,cardiomyocyte,1,6,▁card io m yo cy te,False
+MarianMT,endocardium,1,4,▁end o card ium,False
+MarianMT,epicardium,1,3,▁epi card ium,False
+MarianMT,ventricular septation,2,6,▁vent ric ular ▁se pt ation,False
+MarianMT,neural crest cells,3,5,▁ne ural ▁cre st ▁cells,False
+MarianMT,transcription factors,2,3,▁transcript ion ▁factors,False
+MarianMT,genetic variants,2,2,▁genetic ▁variants,True
+MarianMT,genetic counseling,2,2,▁genetic ▁counseling,True
+MarianMT,cardiomyopathy,1,6,▁card io m yo path y,False
+MarianMT,hypertrophic cardiomyopathy,2,10,▁hyper tro phi c ▁card io m yo path y,False
+MarianMT,dilated cardiomyopathy,2,9,▁d il ated ▁card io m yo path y,False
+MarianMT,arrhythmogenic cardiomyopathy,2,12,▁a rr hy th mo genic ▁card io m yo path y,False
+MarianMT,familial hypercholesterolemia,2,8,▁familial ▁hyper c hole ster ol emi a,False
+MarianMT,genotype,1,4,▁ gen o type,False
+MarianMT,phenotype,1,4,▁p he no type,False
+MarianMT,genetic testing,2,2,▁genetic ▁testing,True
+MarianMT,stem cell therapy,3,3,▁stem ▁cell ▁therapy,True
+MarianMT,bone marrow-derived stem cells,4,7,▁bone ▁m arrow - derived ▁stem ▁cells,False
+MarianMT,pluripotent stem cells,3,7,▁p l uri pot ent ▁stem ▁cells,False
+MarianMT,embryonic stem cells,3,3,▁embryonic ▁stem ▁cells,True
+MarianMT,induced pluripotent stem cells,4,8,▁induced ▁p l uri pot ent ▁stem ▁cells,False
+MarianMT,mesenchymal stem cells,3,7,▁me sen ch y mal ▁stem ▁cells,False
+MarianMT,bone marrow mononuclear cells,4,6,▁bone ▁m arrow ▁mono nuclear ▁cells,False
+MarianMT,myocardial regeneration,2,5,▁my o card ial ▁regeneration,False
+MarianMT,cardiac progenitor cells,3,8,▁card ia c ▁pro gen it or ▁cells,False
+MarianMT,allogeneic transplantation,2,6,▁all ogen e ic ▁transplant ation,False
+MarianMT,transthoracic echocardiography,2,8,▁trans thora c ic ▁echo card i ography,False
+MarianMT,percutaneous coronary intervention,3,8,▁per cut ane ous ▁co ron ary ▁intervention,False
+MarianMT,cardiac rehabilitation,2,4,▁card ia c ▁rehabilitation,False
+MarianMT,cardiac troponin,2,6,▁card ia c ▁tro pon in,False
+NLLB,circulation of blood,3,4,▁circula tion ▁of ▁blood,False
+NLLB,arterial pulse,2,4,▁arteri al ▁pul se,False
+NLLB,jugular venous pulse,3,7,▁jugu lar ▁v eno us ▁pul se,False
+NLLB,auscultation,1,3,▁aus cult ation,False
+NLLB,electrocardiogram,1,5,▁elect ro car di ogram,False
+NLLB,cardiac catheterization,2,6,▁card iac ▁cat het eriz ation,False
+NLLB,coronary artery disease,3,6,▁cor on ary ▁ar tery ▁disease,False
+NLLB,angina pectoris,2,5,▁ang ina ▁pe ctor is,False
+NLLB,hypertension,1,2,▁hyper tension,False
+NLLB,heart failure,2,2,▁heart ▁failure,True
+NLLB,cardiovascular diseases,2,4,▁cardi ovas cular ▁diseases,False
+NLLB,ischemic heart disease,3,5,▁is chem ic ▁heart ▁disease,False
+NLLB,cerebrovascular disease,2,5,▁cere br ovas cular ▁disease,False
+NLLB,abdominal aortic aneurysm,3,10,▁ab dom inal ▁a or tic ▁ane ur ys m,False
+NLLB,peripheral arterial disease,3,7,▁per ip her al ▁arteri al ▁disease,False
+NLLB,atrial fibrillation,2,6,▁atri al ▁fib r illa tion,False
+NLLB,infective endocarditis,2,5,▁infe ctive ▁endo card itis,False
+NLLB,risk factors,2,2,▁risk ▁factors,True
+NLLB,diabetes mellitus,2,3,▁diabetes ▁mel litus,False
+NLLB,quality of care,3,3,▁quality ▁of ▁care,True
+NLLB,quality improvement,2,3,▁quality ▁improv ement,False
+NLLB,clinical practice guidelines,3,5,▁clini cal ▁practice ▁gu idelines,False
+NLLB,performance measures,2,2,▁performance ▁measures,True
+NLLB,evidence-based clinical guidelines,3,7,▁evidence - based ▁clini cal ▁gu idelines,False
+NLLB,appropriate use criteria,3,3,▁appropriate ▁use ▁criteria,True
+NLLB,randomized clinical trial,3,5,▁random ized ▁clini cal ▁trial,False
+NLLB,quality assurance,2,3,▁quality ▁ass urance,False
+NLLB,patient-centered outcomes,2,7,▁patient - center ed ▁out com es,False
+NLLB,shared decision making,3,3,▁shared ▁decision ▁making,True
+NLLB,right atrium,2,3,▁right ▁at rium,False
+NLLB,left atrium,2,3,▁left ▁at rium,False
+NLLB,right ventricle,2,4,▁right ▁vent ric le,False
+NLLB,left ventricle,2,4,▁left ▁vent ric le,False
+NLLB,tricuspid valve,2,5,▁tri cus pid ▁val ve,False
+NLLB,mitral valve,2,4,▁mit ral ▁val ve,False
+NLLB,aortic valve,2,5,▁a or tic ▁val ve,False
+NLLB,pulmonary valve,2,5,▁pul mon ary ▁val ve,False
+NLLB,papillary muscle,2,3,▁papil lary ▁muscle,False
+NLLB,chordae tendineae,2,5,▁chor dae ▁tend ine ae,False
+NLLB,cardiac cycle,2,3,▁card iac ▁cycle,False
+NLLB,systole,1,3,▁sy sto le,False
+NLLB,diastole,1,3,▁di asto le,False
+NLLB,stroke volume,2,2,▁stroke ▁volume,True
+NLLB,cardiac output,2,3,▁card iac ▁output,False
+NLLB,preload,1,3,▁pr elo ad,False
+NLLB,afterload,1,2,▁after load,False
+NLLB,contractility,1,3,▁contra cti lity,False
+NLLB,Frank-Starling relationship,2,5,▁Frank - Star ling ▁relationship,False
+NLLB,baroreflex system,2,5,▁bar ore f lex ▁system,False
+NLLB,β-adrenergic receptors,2,8,▁β - ad ren erg ic ▁recep tors,False
+NLLB,calcium transient,2,4,▁cal cium ▁transi ent,False
+NLLB,phospholamban,1,5,▁ph osp ho lam ban,False
+NLLB,L-type Ca-channel,2,8,▁L - type ▁Ca - ch ann el,False
+NLLB,ryanodine receptors,2,6,▁r yan od ine ▁recep tors,False
+NLLB,sarcoplasmic reticulum,2,7,▁sar cop las mic ▁ret ic ulum,False
+NLLB,troponin T and I,4,5,▁trop onin ▁T ▁and ▁I,False
+NLLB,actin,1,2,▁ac tin,False
+NLLB,apoptosis,1,4,▁ap op tos is,False
+NLLB,autophagy,1,3,▁aut opha gy,False
+NLLB,endothelial cells,2,5,▁end ot heli al ▁cells,False
+NLLB,nitric oxide,2,4,▁nit ric ▁ox ide,False
+NLLB,vascular smooth muscle,3,5,▁vas cular ▁smo oth ▁muscle,False
+NLLB,extracellular matrix,2,5,▁extra cel lular ▁mat rix,False
+NLLB,intimal layer,2,3,▁intim al ▁layer,False
+NLLB,medial VSMC tone,3,6,▁medi al ▁V SM C ▁tone,False
+NLLB,adventitia,1,2,▁advent itia,False
+NLLB,atherosclerosis,1,5,▁at her osc ler osis,False
+NLLB,angiogenesis,1,3,▁angi og enesis,False
+NLLB,endothelial dysfunction,2,6,▁end ot heli al ▁dys function,False
+NLLB,cardiac embryogenesis,2,6,▁card iac ▁emb ry og enesis,False
+NLLB,primitive heart tube,3,4,▁prim itive ▁heart ▁tube,False
+NLLB,heart looping,2,3,▁heart ▁loop ing,False
+NLLB,cardiac progenitors,2,5,▁card iac ▁prog enit ors,False
+NLLB,cardiomyocyte,1,5,▁cardi om yo cy te,False
+NLLB,endocardium,1,4,▁endo car di um,False
+NLLB,epicardium,1,4,▁ep ic ardi um,False
+NLLB,ventricular septation,2,5,▁vent ri cular ▁sept ation,False
+NLLB,neural crest cells,3,5,▁ne ural ▁cr est ▁cells,False
+NLLB,transcription factors,2,3,▁trans cription ▁factors,False
+NLLB,genetic variants,2,3,▁genetic ▁vari ants,False
+NLLB,genetic counseling,2,3,▁genetic ▁couns eling,False
+NLLB,cardiomyopathy,1,4,▁cardi omy op athy,False
+NLLB,hypertrophic cardiomyopathy,2,7,▁hyper trop hic ▁cardi omy op athy,False
+NLLB,dilated cardiomyopathy,2,6,▁di lated ▁cardi omy op athy,False
+NLLB,arrhythmogenic cardiomyopathy,2,9,▁arr hy th m ogenic ▁cardi omy op athy,False
+NLLB,familial hypercholesterolemia,2,8,▁famili al ▁hyper cho lest ero lem ia,False
+NLLB,genotype,1,2,▁gen otype,False
+NLLB,phenotype,1,2,▁phen otype,False
+NLLB,genetic testing,2,2,▁genetic ▁testing,True
+NLLB,stem cell therapy,3,3,▁stem ▁cell ▁therapy,True
+NLLB,bone marrow-derived stem cells,4,8,▁bone ▁mar row - deri ved ▁stem ▁cells,False
+NLLB,pluripotent stem cells,3,6,▁pl uri pot ent ▁stem ▁cells,False
+NLLB,embryonic stem cells,3,5,▁embr yon ic ▁stem ▁cells,False
+NLLB,induced pluripotent stem cells,4,8,▁indu ced ▁pl uri pot ent ▁stem ▁cells,False
+NLLB,mesenchymal stem cells,3,7,▁mes en ch ym al ▁stem ▁cells,False
+NLLB,bone marrow mononuclear cells,4,7,▁bone ▁mar row ▁monon ucle ar ▁cells,False
+NLLB,myocardial regeneration,2,6,▁m yo car dial ▁regener ation,False
+NLLB,cardiac progenitor cells,3,6,▁card iac ▁prog en itor ▁cells,False
+NLLB,allogeneic transplantation,2,5,▁all ogene ic ▁transplant ation,False
+NLLB,transthoracic echocardiography,2,8,▁tran st hora cic ▁echo car di ography,False
+NLLB,percutaneous coronary intervention,3,8,▁per cut ane ous ▁cor on ary ▁intervention,False
+NLLB,cardiac rehabilitation,2,4,▁card iac ▁rehabilit ation,False
+NLLB,cardiac troponin,2,4,▁card iac ▁trop onin,False

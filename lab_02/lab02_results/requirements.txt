@@ -1,0 +1,6 @@
+torch==2.11.0
+transformers==5.20.2
+sentencepiece
+sacremoses
+pandas==2.2.3
+numpy==2.1.3

@@ -1,0 +1,3 @@
+﻿segment_id,tensor_shape,n_heads,target_len,source_len,mean_max_weight,example_alignment
+s002,"(1, 8, 73, 60)",8,73,60,0.5253,▁Аль->▁Pul; тер->▁alter; н->nan; ирующий-></s>; ▁п->▁pulse
+s007,"(1, 8, 24, 26)",8,24,26,0.543,▁Его->▁classic; ▁класс->▁classic; ическое-></s>; ▁описание->▁account; ▁стало->▁marks
