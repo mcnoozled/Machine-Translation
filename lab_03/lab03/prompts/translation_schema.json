@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "properties": {
+    "segment_id": {
+      "type": "string"
+    },
+    "translation": {
+      "type": "string"
+    },
+    "used_terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string"
+          },
+          "target": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "source",
+          "target"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "segment_id",
+    "translation",
+    "used_terms",
+    "warnings"
+  ],
+  "additionalProperties": false
+}

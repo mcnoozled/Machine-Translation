@@ -1,0 +1,14 @@
+[
+  {
+    "segment_id": "s013",
+    "source": "Overall, the age-standardized DALY rates for IHD, lower respiratory infections, and cerebrovascular disease declined, although not sufficiently for these conditions to be replaced as the leading causes of disease burden worldwide.",
+    "translation": "В целом возраст-стандартизированные показатели DALY для ишемической болезни сердца, инфекций нижних дыхательных путей и цереброваскулярных заболеваний снизились, хотя недостаточно, чтобы эти состояния перестали быть ведущими причинами глобального бремени болезней.",
+    "note": "Аббревиатуры и составные прилагательные: IHD → «ишемическая болезнь сердца», DALY оставлено как принятая аббревиатура; age-standardized → «возраст-стандартизированные» (не калька «стандартизированные по возрасту»); многословный термин cerebrovascular disease согласован по падежу."
+  },
+  {
+    "segment_id": "s015",
+    "source": "Peripheral arterial disease (PAD) is a circulatory problem in which narrowed arteries reduce blood flow to the limbs and causes symptoms of leg pain with walking (claudication).",
+    "translation": "Заболевание периферических артерий является нарушением кровообращения, при котором суженные артерии уменьшают кровоток в конечностях и вызывают боль в ногах при ходьбе (хромоту).",
+    "note": "Многословный термин и разговорный эквивалент: peripheral arterial disease → «заболевание периферических артерий» (не «болезнь периферической артерии»); claudication → «хромота» (перемежающаяся), а не ложный друг «клаудикация»; аббревиатура PAD раскрыта один раз."
+  }
+]
